@@ -1,4 +1,4 @@
-package enumeration.ex02;
+package enumeration.ex2;
 
 public class ClassGrade {
     public static final ClassGrade BASIC = new ClassGrade();
